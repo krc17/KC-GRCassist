@@ -10,4 +10,4 @@ Presenting this data in Powerpoint is its own conversion hurdle. Tried this by h
 
 Currently looking at focusing on daily news update kiosk setup. Eliminate the 'severity' portion for now and have the grcassist python code clear grcdata and write only the current day's news. Then, separately, open to browser tabs to cycle.
 
-Once this is tested I might look at combining all the elements. Until then, make a script to run the separate functions.
+Once this is tested I might look at combining all the elements. Until then, make a script to run the separate functions and a Windows task to run the script in the morning.
